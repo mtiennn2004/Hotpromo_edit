@@ -1183,7 +1183,7 @@ const CampaignJsonEditor = () => {
                     setNcDialogRows((p) => [...p, { name: "", value: [] }])
                   }
                 >
-                  + Thêm config
+                  + Add config
                 </button>
 
                 <div className="dialog-actions">
@@ -1277,7 +1277,7 @@ const CampaignJsonEditor = () => {
                     ])
                   }
                 >
-                  + Thêm config
+                  + Add config
                 </button>
 
                 <div className="dialog-actions">
@@ -1344,7 +1344,7 @@ const CampaignJsonEditor = () => {
                     setScDialogRows((p) => [...p, { name: "", value: [] }])
                   }
                 >
-                  + Thêm config
+                  + Add config
                 </button>
 
                 <div className="dialog-actions">
